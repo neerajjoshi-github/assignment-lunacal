@@ -2,4 +2,4 @@
 
 ## Demo
 
-![Demo Image](./public/readme/demo.gif)
+![Demo Image](./public/demo.gif)
